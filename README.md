@@ -9,7 +9,7 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDERRAHMANE2303&show_icons=true&theme=radical&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDERRAHMANE2303&show_icons=true&theme=radical&cache_seconds=60" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDERRAHMANE2303&layout=compact&theme=radical&cache_seconds=60" />
 </div>
 
