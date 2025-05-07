@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I am <span style="color:#00BFFF;">ESSAHIH Abderrahmane</span></h1>
 
 <p align="center">
-  Software engineering student at ENSIAS with a strong interest in backend development, cloud infrastructure, and DevOps.
+  Software engineering student at ENSIAS with a strong interest in backend development, infrastructure, and DevOps.
 </p>
 
 ---
