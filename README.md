@@ -28,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" />
 
 </p>
 
@@ -62,7 +61,7 @@
     </span>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abderrahmane-essahih/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/abderrahmane-essahih-263259298/" target="_blank" style="text-decoration: none;">
     <span style="display: inline-block; background-color: #0077B5; padding: 10px 20px; border-radius: 8px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" style="vertical-align: middle;"/>
     </span>
