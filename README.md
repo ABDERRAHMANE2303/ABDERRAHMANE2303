@@ -11,9 +11,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDERRAHMANE2303&count_private=true&theme=github_dark_blue&cache_seconds=60" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDERRAHMANE2303&show_icons=true&theme=github_dark&cache_seconds=60" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDERRAHMANE2303&layout=compact&theme=github_dark&cache_seconds=60" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDERRAHMANE2303&count_private=true&theme=github_dark_blue&cache_seconds=50" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ABDERRAHMANE2303&show_icons=true&theme=github_dark&cache_seconds=50" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDERRAHMANE2303&layout=compact&theme=github_dark&cache_seconds=50" /> -->
 </div>
 
 
