@@ -1,5 +1,3 @@
-
-
 <p align="center">
   Software engineering student at ENSIAS with a strong interest in backend development, infrastructure, and DevOps.
 </p>
@@ -74,6 +72,7 @@
 
 
 ---
-<!-- ![](https://komarev.com/ghpvc/?username=ABDERRAHMANE2303) -->
+ <!-- ![](https://komarev.com/ghpvc/?username=ABDERRAHMANE2303) -->
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABDERRAHMANE2303&theme=react-dark)
 
