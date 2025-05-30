@@ -1,5 +1,5 @@
 <p align="center">
-  Software engineering student at ENSIAS with a strong interest in backend development, infrastructure, and DevOps.
+  Software engineering student at ENSIAS with a strong interest in backend development, infrastructure, cloud and DevOps.
 </p>
 
 ---
