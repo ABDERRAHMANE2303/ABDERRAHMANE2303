@@ -1,6 +1,6 @@
-<p align="center">
+<h3 align="center">
   Software engineering student at ENSIAS with a strong interest in backend development, infrastructure, cloud and DevOps.
-</p>
+</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDERRAHMANE2303&count_private=true&theme=github_dark_blue&cache_seconds=50" />
   <img src="https://github-readme-stats.vercel.app/api?username=ABDERRAHMANE2303&show_icons=true&theme=github_dark&cache_seconds=50" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDERRAHMANE2303&layout=compact&theme=github_dark&cache_seconds=50" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDERRAHMANE2303&layout=compact&theme=github_dark&cache_seconds=50" />
 </div>
 
 
@@ -72,7 +72,4 @@
 
 
 ---
- <!-- ![](https://komarev.com/ghpvc/?username=ABDERRAHMANE2303) -->
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABDERRAHMANE2303&theme=react-dark&cache_seconds=50)
-
