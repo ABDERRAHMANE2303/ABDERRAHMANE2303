@@ -15,8 +15,7 @@
 ### 💻 Fullstack Dev
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,spring,java,python" height="48" />
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" height="48" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,java,python,postgres,mysql,sqlite" height="48" />
 </p>
 
 
