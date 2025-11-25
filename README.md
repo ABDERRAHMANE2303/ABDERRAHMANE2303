@@ -12,7 +12,7 @@
 
 
 
-### </> Fullstack Dev
+### 💻 Fullstack Dev
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,spring,java,python" height="48" />
@@ -20,7 +20,7 @@
 </p>
 
 
-### 🛠️ Cloud & DevOps
+### ☁️⚙️ Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,git,bash,aws" height="48" />
@@ -28,11 +28,13 @@
 
 </p>
 
-### 🧰 Tools
+### 🛠️ Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,figma,latex" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux,figma,latex,vscode,vim" height="48" />
 </p>
+
+
 
 <!-- ### 🤝 Connect with Me
 
