@@ -14,14 +14,14 @@
 
 ### 💻 Fullstack Dev
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,java,python,postgres,mysql,sqlite" height="48" />
 </p>
 
 
 ### ☁️⚙️ Cloud & DevOps
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,git,bash,aws" height="48" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="95" style="margin-bottom: 16px;" />
 
@@ -29,7 +29,7 @@
 
 ### 🛠️ Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,figma,latex,vscode,vim" height="48" />
 </p>
 
