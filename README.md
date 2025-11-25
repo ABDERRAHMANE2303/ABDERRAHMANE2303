@@ -1,60 +1,45 @@
-<h3 align="center">
-  Software engineering student at ENSIAS with a strong interest in backend development, infrastructure, cloud and DevOps.
-</h3>
+<h2 align="center">
+  Software engineering student, interested in fullstack development, infrastructure, cloud and DevOps.
+</h2>
 
----
 
 ### 📊 My GitHub Stats
 
-
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDERRAHMANE2303&count_private=true&theme=github_dark_blue&cache_seconds=50" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ABDERRAHMANE2303&show_icons=true&theme=github_dark&cache_seconds=50" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDERRAHMANE2303&layout=compact&theme=github_dark&cache_seconds=50" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ABDERRAHMANE2303&count_private=true&theme=github_dark_blue&cache_seconds=50" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDERRAHMANE2303&layout=compact&theme=github_dark_blue&cache_seconds=55" 
+  />
 </div>
 
 
----
 
-### 🚀 Languages & Frameworks
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-  <img src="https://unpkg.com/simple-icons@latest/icons/latex.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+### </> Fullstack Dev
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,spring,java,python" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" height="48" />
+</p>
+
+
+### 🛠️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,git,bash,aws" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="95" style="margin-bottom: 16px;" />
 
 </p>
 
----
+### 🧰 Tools
 
-### 🛠️ Databases & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,figma,latex" height="48" />
 </p>
 
----
-
-### 🤝 Connect with Me
+<!-- ### 🤝 Connect with Me
 
 <p align="center">
   <a href="mailto:essahihabderrahman2020@gmail.com" target="_blank" style="text-decoration: none;">
@@ -68,8 +53,5 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" style="vertical-align: middle;"/>
     </span>
   </a>
-</p>
+</p> -->
 
-
-<!---
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ABDERRAHMANE2303&theme=react-dark&cache_seconds=50)
