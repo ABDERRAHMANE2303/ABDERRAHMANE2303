@@ -1,53 +1,28 @@
-<h2 align="center">
-  Software engineering student, interested in fullstack development, infrastructure, cloud and DevOps.
-</h2>
+# Salamo Alaykom, I'm Abderrahmane 
+
+I'm a Software Engineer interested in the full software development lifecycle, from design to delivery.
+
+I primarily work on full-stack development, with hands-on experience in Cloud, DevOps and deployment automation.
+
+my primary tech stack : 
 
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABDERRAHMANE2303&count_private=true&theme=github_dark_blue&cache_seconds=50" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABDERRAHMANE2303&layout=compact&theme=github_dark&cache_seconds=55" />
-</div>
-
-
-
-### 💻 Fullstack Dev
+#### 💻 Full-Stack Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,java,python,postgres,mysql,sqlite" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" />
+  <img src="./assets/oracle-cloud.png" height="40" alt="Oracle Cloud Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=terraform,docker,githubactions,linux,bash,git" height="40" />
 </p>
 
-
-### ☁️⚙️ Cloud & DevOps
+#### ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,git,bash,aws" height="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="95" style="margin-bottom: 16px;" />
-
+  <img src="https://skillicons.dev/icons?i=aws,oracle,terraform,docker,githubactions,linux,bash,git" height="40" />
 </p>
 
 ### 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,figma,latex,vscode,vim" height="48" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,idea,pycharm,vim,latex" height="40" />
 </p>
-
-
-
-<!-- ### 🤝 Connect with Me
-
-<p align="center">
-  <a href="mailto:essahihabderrahman2020@gmail.com" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-block; background-color: #D14836; padding: 10px 20px; border-radius: 8px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="30" alt="Gmail" style="vertical-align: middle;"/>
-    </span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abderrahmane-essahih-263259298/" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-block; background-color: #0077B5; padding: 10px 20px; border-radius: 8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" style="vertical-align: middle;"/>
-    </span>
-  </a>
-</p> -->
-
