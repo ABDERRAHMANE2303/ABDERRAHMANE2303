@@ -9,16 +9,14 @@ my primary tech stack :
 
 #### 💻 Full-Stack Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />
-  <img src="./assets/oracle-cloud.png" height="40" alt="Oracle Cloud Infrastructure" />
-  <img src="https://skillicons.dev/icons?i=terraform,docker,githubactions,linux,bash,git" height="40" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,typescript,spring,express,angular,postgres,sqlite" height="40" /> </p>
 
 #### ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,oracle,terraform,docker,githubactions,linux,bash,git" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" />
+  <img src="./assets/oracle-cloud.png" height="40" alt="Oracle Cloud Infrastructure" />
+  <img src="https://skillicons.dev/icons?i=terraform,docker,githubactions,linux,bash,git" height="40" />
 </p>
 
 ### 🛠️ Tools
