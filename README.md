@@ -7,32 +7,32 @@ I primarily work on full-stack development, with hands-on experience in Cloud, D
 my primary tech stack : 
 
 
-#### Full-Stack Development
+### Full-Stack Development
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,typescript,spring,express,angular,postgres,sqlite" height="35" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,typescript,spring,express,angular,postgres,sqlite" height="40" /> </p>
 
-#### Cloud & DevOps
+### Cloud & DevOps
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="40" />
   <img src="./assets/oracle-cloud.png" height="40" alt="Oracle Cloud Infrastructure" />
-  <img src="https://skillicons.dev/icons?i=terraform,docker,githubactions,linux,bash,git" height="35" />
+  <img src="https://skillicons.dev/icons?i=terraform,docker,githubactions,linux,bash,git" height="40" />
 </p>
 
-#### Tools
+### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,idea,pycharm,vim,latex" height="35" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,idea,pycharm,vim,latex" height="40" />
 </p>
 
-#### Contact Me
+### Contact Me
 
 <p align="center">
   <a href="mailto:essahihabderrahman2020@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/abderrahmane-essahih/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
 </p>
