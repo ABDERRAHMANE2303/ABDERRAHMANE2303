@@ -69,8 +69,7 @@ I primarily work on full-stack development, with hands-on experience in Cloud in
 **Databases & Data**
 
 <img src="https://skillicons.dev/icons?i=postgresql,sqlite&perline=2" height="36" />
-<img src="https://raw.githubusercontent.com/duckdb/duckdb/main/logo/DuckDB_Logo-stacked.svg" height="36" alt="" />
-
+<img src="https://cdn.simpleicons.org/duckdb/FFF100" height="40" alt="DuckDB" />
 </td>
 </tr>
 </table>
