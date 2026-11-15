@@ -1,36 +1,78 @@
-I'm a Software Engineer interested in the full software development lifecycle, from design to delivery.
+ <div align="center">
 
-I primarily work on full-stack development, with hands-on experience in Cloud, DevOps and deployment automation.
+# Abderrahmane Essahih
 
-my primary tech stack : 
+**Junior Software Engineer · Full-Stack Development · Software Delivery**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abderrahmane--essahih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-essahih/)[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:essahihabderrahman2020@gmail.com)
+
+</div>
+
+### About
+
+I'm a Software Engineer interested in the full software development lifecycle, design to delivery.
+
+I primarily work on full-stack development, with hands-on experience in Cloud infrastructure, DevOps and deployment automation.
 
 
-#### Full-Stack Development
+### Experience
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,typescript,spring,express,angular,postgres,sqlite" height="40" /> </p>
+#### Inforisk | Software Engineering Intern
 
-#### Cloud & DevOps
+>Contributed to the development of a portfolio-monitoring platform, building full-stack features for dashboards and data analytics.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="35" />
-  <img src="./assets/oracle-cloud.png" height="35" alt="Oracle Cloud Infrastructure" />
-  <img src="https://skillicons.dev/icons?i=terraform,docker,githubactions,linux,bash,git" height="35" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-#### Tools
+#### Ministry of Economy and Finance | Software Engineering Intern
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,idea,pycharm,vim,latex" height="35" />
-</p>
+>Worked on an IT incident management application and infrastructure automation.
 
-#### Contact Me
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=149ECA)![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle_Cloud_Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white)![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
-<p align="center">
-  <a href="mailto:essahihabderrahman2020@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abderrahmane-essahih/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
-  </a>
-</p>
+#### ONDA | Software Engineering Intern
+
+> Contributed to AeroGuard, a JavaFX desktop application, including map-based functionality and reporting.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat-square&logo=java&logoColor=white)![Gluon Maps](https://img.shields.io/badge/Gluon_Maps-2D8CFF?style=flat-square)![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+### Technical Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,typescript&perline=3" height="36" />
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+**Full-Stack Development**
+
+<img src="https://skillicons.dev/icons?i=spring,angular,fastapi,react&perline=4" height="36" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,git,bash,linux" height="36" />
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+**Databases & Data**
+
+<img src="https://skillicons.dev/icons?i=postgresql,sqlite&perline=2" height="36" />
+<img src="https://raw.githubusercontent.com/duckdb/duckdb/main/logo/DuckDB_Logo-stacked.svg" height="36" alt="" />
+
+</td>
+</tr>
+</table>
+
+</div>
