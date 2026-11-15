@@ -39,7 +39,8 @@ I primarily work on full-stack development, with hands-on experience in Cloud in
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat-square&logo=java&logoColor=white)![Gluon Maps](https://img.shields.io/badge/Gluon_Maps-2D8CFF?style=flat-square)![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-### Technical Stack
+### Technical Stack <div align="center">
+
 <table>
 <tr>
 <td width="50%" align="center" valign="middle">
@@ -74,6 +75,9 @@ I primarily work on full-stack development, with hands-on experience in Cloud in
 </td>
 </tr>
 </table>
-
+</div>
 
 </div>
+
+
+
